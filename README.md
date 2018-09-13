@@ -1,5 +1,5 @@
 
-## Welcome to Nicole Westgard's Projects Homepage
+## Welcome to my Projects Homepage
 
 
 
