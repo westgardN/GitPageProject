@@ -1,3 +1,5 @@
+<link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
+ <link href="http://fonts.googleapis.com/css?family=Nobile" rel="stylesheet" type="text/css">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/westgardN/student-work/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
