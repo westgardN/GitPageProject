@@ -8,8 +8,8 @@ more content to come...
 
 
 
-markdown```
- Project List 
+```markdown
+###   Project List 
  
  [499 Software Development Capstone Project](https://github.com/westgardN/499-Capstone-Project)  
 
