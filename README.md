@@ -3,8 +3,12 @@
 
 
 
+
+
 ###  Currently, I am a Computer Science student at Metropolitan State University
 Here is a list of projects and practice exercises I have been working on...more content to come...
+
+
 
 
 
@@ -19,6 +23,8 @@ Here is a list of projects and practice exercises I have been working on...more 
  [Java Practice Exercises](https://github.com/westgardN/24-hours-java)  
 
  [Java-"Fun with Threads" Exercises](https://github.com/westgardN/440-fun-with-threads)  
+
+
 
 
 
