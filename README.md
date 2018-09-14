@@ -8,7 +8,7 @@ more content to come...
 
 
 
- Project List 
+###  Project List
  
  [499 Software Development Capstone Project](https://github.com/westgardN/499-Capstone-Project)  
 
@@ -19,6 +19,7 @@ more content to come...
  [Java Practice Exercises](https://github.com/westgardN/24-hours-java)  
 
  [Java-"Fun with Threads" Exercises](https://github.com/westgardN/440-fun-with-threads)  
+
 
 
 ###  Contact
