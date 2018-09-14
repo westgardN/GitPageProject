@@ -6,9 +6,9 @@
 ###  Full-time CS student at Metropolitan State University
 more content to come...
 
-[[_TOC_]]
+
  ### Project List
- 
+ [[_TOC_]]
 -[499 Software Development Capstone Project](https://github.com/westgardN/499-Capstone-Project)  
 
 -[372 OOP Design + Implementation Project](https://github.com/westgardN/ICS372_group_project)  
