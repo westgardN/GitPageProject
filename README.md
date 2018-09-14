@@ -3,12 +3,12 @@
 
 
 
-###  Full-time CS student at Metropolitan State University
-more content to come...
+###  Currently, I am a Computer Science student at Metropolitan State University
+Here is a list of projects and practice exercises I have been working on...more content to come...
 
 
 
-###  Project List
+##  Project List
  
  [499 Software Development Capstone Project](https://github.com/westgardN/499-Capstone-Project)  
 
