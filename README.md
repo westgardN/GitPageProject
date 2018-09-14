@@ -7,7 +7,7 @@
 more content to come...
 
 
- ### Project List 
+###  Project List 
  
  [499 Software Development Capstone Project](https://github.com/westgardN/499-Capstone-Project)  
 
